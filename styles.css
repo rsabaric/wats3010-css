@@ -1,4 +1,4 @@
-/* This is where styles are defined for your page. */
+/* Basic CSS */
 /* One style is provided as example. */
 
 h1,h2,h3,h4,h5,h6 {
@@ -45,9 +45,6 @@ ul.poem {
     font-size:1.4rem;
 }
 
-.content-footer {
-
-}
 .page-footer {
     border-top: 2px solid black;
     padding-top: 2rem;
